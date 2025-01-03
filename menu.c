@@ -1,6 +1,7 @@
 //#######################################################################
-//   NAME:       toolbox.txt
-//   FUNCTION:   Main menu
+//   NAME:       menu.c
+//   VERSION:    V1.0
+//   FUNCTION:   Main menu for c functions
 //   INPUT:      NIL
 //   OUTPUT:     NIL
 //   LINKS:      NIL
