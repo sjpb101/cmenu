@@ -1,6 +1,6 @@
 //#######################################################################
 //   NAME:       menu.c
-//   VERSION:    V1.0
+//   VERSION:    V1.1
 //   FUNCTION:   Main menu for c functions
 //   INPUT:      NIL
 //   OUTPUT:     NIL
@@ -45,7 +45,7 @@ int main()
     while(!done)
     {
         printf("\n****************************************\n");
-        printf("*      MAIN MENU                       *\n");
+        printf("*      MAIN MENU v1.1                  *\n");
         printf("****************************************\n");
         printf("*   a - Add numbers\n");
         printf("*   b - Random numbers\n");
